@@ -3,7 +3,7 @@ entries:
   chartwithtomcat:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-01-24T09:21:43.2729091+01:00"
+    created: "2022-01-24T11:53:14.3663319+01:00"
     dependencies:
     - name: tomcat
       repository: http://charts.bitnami.com/bitnami
@@ -17,17 +17,17 @@ entries:
     version: 0.1.0
   couponservicechart:
   - apiVersion: v2
-    appVersion: 1.16.0
-    created: "2022-01-24T09:21:43.2769462+01:00"
+    appVersion: 0.0.1-SNAPSHOT
+    created: "2022-01-24T11:53:14.3697986+01:00"
     dependencies:
     - name: mysql
       repository: http://charts.bitnami.com/bitnami
       version: 8.8.6
     description: A Helm chart for Kubernetes
-    digest: 17da5caf041c422cef5a418a31651e06e9be7976d35461fb06f99fbfe3a5dca5
+    digest: f024c65433e69c7933b25443883987bb15c3fbe8004eec1e500c06d0fc63d4d1
     name: couponservicechart
     type: application
     urls:
     - couponservicechart-0.1.0.tgz
     version: 0.1.0
-generated: "2022-01-24T09:21:43.2181386+01:00"
+generated: "2022-01-24T11:53:14.3253915+01:00"
