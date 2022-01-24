@@ -2,7 +2,7 @@
 Hash: SHA512
 
 apiVersion: v2
-appVersion: 1.16.0
+appVersion: 0.0.1-SNAPSHOT
 dependencies:
 - - name: mysql
   repository: http://charts.bitnami.com/bitnami
@@ -14,17 +14,17 @@ version: 0.1.0
 
 ...
 files:
-  couponservicechart-0.1.0.tgz: sha256:17da5caf041c422cef5a418a31651e06e9be7976d35461fb06f99fbfe3a5dca5
+  couponservicechart-0.1.0.tgz: sha256:f024c65433e69c7933b25443883987bb15c3fbe8004eec1e500c06d0fc63d4d1
 -----BEGIN PGP SIGNATURE-----
 
-wsDcBAEBCgAQBQJh7mEgCRDzlfXe6253ZwAAdgwMALWjb/rYy/hIVH2JcaUE2Dv8
-2OipxvyJEvkaom7TcnRS4jQiMGU9zmzvS2l27bBZR/e77IcIN6L3rgCmzs9jfAQi
-iJefMEClJ0XpI/rtd5oCueGQ/z7ohVo3mgIfoYfbAdZbQSXpCTkQ4nrA/CwcyOM/
-K5c1eUu3ZJulcRcvtkgdompoDnjM3tL1EqMbL4RmAUPG///MiLLe0jniEpOoXZpo
-hWRkxcfMLKATzYd8g4R9MOtDX+LuUtyhBQeuM0icnaD94Mf68rIJGhOxslotRrmx
-52XZdX+gRetEoqCGQSGz2y29AfBwZPdJ7Ag9k9AaEdFlaphZTJIi5zXuu1HQwTBs
-/qEYh5WDTkhRg4H1Gx5wyCKNjjcuXzdo+Cm0EgYWa/x4wjJwaXhqVRavKIbPVtAc
-QUgn3h/dzWje5jpo7FeJTSeBE4tOXzqt51GZfpGC6P7PxNIDK8j+YpvzD5GGFNdg
-xTjEeRriESECURxTwphoMCeSRtZP2Wbcz52HG7E0Tg==
-=dZjo
+wsDcBAEBCgAQBQJh7oQnCRDzlfXe6253ZwAAaDAMAK44x+yeu4qLKS7mL+k0orgU
+/VhorI8rXChlMUC2/qi8VbIkmD75eW+oF374kZnb8WDncWS+MkwE8qbATqjxZszO
+5n32llJZAFjg317B5iCouAVgCqlDei176MfF+8iO8nWD0oLzVQ2oE8CDSw18Wjwo
+EJhVt0DaaKDSho+L8yMiwR/dyycUtcS14hNS0qzOo/UurNfOiq4egKU7eKHnY0J0
+/aneu8UqbGQW04hsfKo3eWCB7+FYRfMQm8J1upez3OTKC8FA3Cgjmu/VVVtiozIf
+CVWI8WnCySDxTW6gXGN3Y6HiSv3E/j3phFl82r5T3IlVg4JeAkOuMZ+QYmH9Ip2H
+fKcLbe/vf410Hxfh6Xqb4HU9sdEMOyRN+0xPZehN3qEmqkYNFgEHkBVI/e3tOD46
+hM1UOI3gv5CSiRFroVjR8hdriWiSbEhOpr4Ycyz9UaAZaLlA+YnpRekRcWrq1qRH
+aiBO0snziDbWNChogXY1uIl2QIJISJX/hOpWwo1q+g==
+=tp4E
 -----END PGP SIGNATURE-----
