@@ -1,3 +1,0 @@
-### CHARTS
-#### * chartwithtomcat
-#### * couponservicechart
